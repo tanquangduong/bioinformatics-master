@@ -1,0 +1,24 @@
+bio
+matplotlib
+pandas # Data processing
+numpy # Array/matrix processing
+scipy # Scientific computing
+biopython # Bioinformatics library
+PyVCF3 # VCF processing
+scikit-learn # Machine learning library
+seaborn # Statistical chart library
+Cython # High performance
+Numba # High performance
+Dask # High performance
+reportlab
+rlPyCairo
+gffutils
+# pysam # SAM/BAM processing - Only works on Linux-like system: Ubunto, OSX, etc.
+# HTSeq # NGS processing
+# simuPOP # Population genetics simulation
+# DendroPy # Phylogenetics
+# pymol-labimm # Some PyMOL utilities
+# PyMOL-advance==0.1 # PyMOL-advance: high-level interfaces from structure data to publication-standard figures
+# pymol-sketch # A pymol command collection to sketch CGO
+# pymolPy3 # A PyMOL wrapper in Python3.
+# rpy2 # Python interface to R language
